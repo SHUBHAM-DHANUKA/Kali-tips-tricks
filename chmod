@@ -1,0 +1,12 @@
+User	 Group 	Owner
+----	 ---	---
+drwx	rwx	rwx
+
+d Directory
+r Read
+x Execute
+
+o owner 
+u user
+g group
+
